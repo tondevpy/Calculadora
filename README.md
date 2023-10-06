@@ -1,5 +1,7 @@
 # Documentação do Projeto Calculadora TonDevPy
 
+![](https://i.ibb.co/7ynC3Mh/Screenshot-1.png)
+
 Este projeto é uma calculadora simples desenvolvida usando HTML, CSS e JavaScript. A calculadora realiza operações básicas de matemática, como adição, subtração, multiplicação e divisão.
 
 # Estrutura de Arquivos
