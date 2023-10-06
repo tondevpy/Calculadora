@@ -11,11 +11,17 @@ style.css: Arquivo CSS para estilizar a calculadora.
 # Funcionalidades
 
 Adição (+): Clique no botão correspondente ao número e depois em "+". O número será adicionado à expressão.
+
 Subtração (-): Clique no botão correspondente ao número e depois em "-". O número será subtraído da expressão.
+
 Multiplicação (*): Clique no botão correspondente ao número e depois em "*". O número será multiplicado à expressão.
+
 Divisão (/): Clique no botão correspondente ao número e depois em "/". O número será dividido da expressão.
+
 Clear (AC): Limpa a tela de exibição.
+
 Delete (DE): Apaga o último caractere da expressão.
+
 Igual (=): Calcula o resultado da expressão e exibe na tela.
 
 # Uso
